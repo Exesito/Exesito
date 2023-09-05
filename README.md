@@ -1,5 +1,5 @@
 ### Hey, Hello!
-I'm Ernesto, Civil Informatic Engineer that likes destroying tech to learn, interested to participate in projects to ease people's life with the power of technology.
+I'm Ernesto, Computer Engineer that likes destroying tech to learn, interested to participate in projects to ease people's life with the power of technology.
 - 👨‍💻 Currently working
 - ⭐ My favorite languages are Python and C#
 - 🐱 I love my cats, Tsuki and Fubuki!
